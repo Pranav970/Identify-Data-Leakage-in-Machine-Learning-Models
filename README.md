@@ -20,3 +20,9 @@ numpy for mathematical operations.
 sklearn for machine learning and machine-learning-pipeline related functions.
 seaborn for visualizing the data.
 matplotlib for additional plotting tools.
+
+# To do:- 
+Exercises
+
+Exercise 1: Introduce data leakage in a decision tree classifier
+Exercise 2: Compare models with and without data leakage
