@@ -26,3 +26,13 @@ Exercises
 
 Exercise 1: Introduce data leakage in a decision tree classifier
 Exercise 2: Compare models with and without data leakage
+
+# Results !! 
+** Here's the leakage report :- 
+
+![image](https://github.com/user-attachments/assets/5d7ddc00-8574-4310-b173-1c91fc2ee60f)
+
+** Also the differnece we got :- 
+
+![image](https://github.com/user-attachments/assets/57476a58-2d30-4a56-97b0-3ce9b8567dd3)
+
